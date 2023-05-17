@@ -1,6 +1,5 @@
 # Melanoma Detection Assignment
 # By Rajanikant Badiger
-# Date April 22, 2023
 > Outline a brief description of your project.
 
 
